@@ -34,9 +34,9 @@ LIMIT 5;
 	Pois podem ajudar a encontrar defeitos no código de forma mais rápida, evitando que se propaguem ao longo do processo, diminuindo custos com manutenção e possível diminuição de falhas identificadas durante as atividades de teste posteriores.
 
 **Alterar:**
-- A funcionalidade/correção foi testada no ambiente de QA
-	Mudaria para: "A funcionalidade/correção foi testada no ambiente de QA e atende aos critérios de aceitação"
-	Pois não basta testar, é preciso garantir que os critérios de aceitação tenham sido atendidos durante as atividades de teste também  
+- A funcionalidade/correção foi testada no ambiente de QA  
+> Mudaria para: "A funcionalidade/correção foi testada no ambiente de QA e atende aos critérios de aceitação"
+> Pois não basta testar, é preciso garantir que os critérios de aceitação tenham sido atendidos durante as atividades de teste também  
 
 **Ações:**
 - Além disso, um dos possíveis motivos para que funcionalidades tenham sido implementadas de forma incompleta é uma pontuação equivocada durante a planning. Talvez os itens escolhidos para a sprint tenham sido mal interpretados e a sprint acabou sendo mais "pesada" para o time do que deveria. Talvez seja necessário que os QAs participem de forma mais ativa na planning, para dar seu ponto de vista com relação às atividades de teste sobre os itens da sprint. É preciso ter consciência que todas as atividades ao longo do processo podem impactar a definição de pronto, não somente a programação.  
