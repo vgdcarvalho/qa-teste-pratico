@@ -29,9 +29,9 @@ LIMIT 5;
 4. Sobre a "Definição de Pronto" algumas coisas poderiam ser adicionadas, outras alteradas e algumas ações em conjunto com o time de desenvolvimento poderiam ser incentivadas:  
 
 **Adicionar:**  
-- A funcionalidade/correção passou por testes unitários
-- A funcionalidade/correção passou por revisão de código
-	Pois podem ajudar a encontrar defeitos no código de forma mais rápida, evitando que se propaguem ao longo do processo, diminuindo custos com manutenção e possível diminuição de falhas identificadas durante as atividades de teste posteriores.
+- A funcionalidade/correção passou por testes unitários  
+- A funcionalidade/correção passou por revisão de código  
+> Pois podem ajudar a encontrar defeitos no código de forma mais rápida, evitando que se propaguem ao longo do processo, diminuindo custos com manutenção e possível diminuição de falhas identificadas durante as atividades de teste posteriores.
 
 **Alterar:**
 - A funcionalidade/correção foi testada no ambiente de QA  
